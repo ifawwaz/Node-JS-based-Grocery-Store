@@ -3,7 +3,7 @@ Creating web server Node JS based example using Express and EJS framework
 
 ## Getting Started
 
-To get this project copy up and running, follow these simple example steps.
+To get this project up and running, follow these simple example steps.
 
 ### Prerequisites
 
