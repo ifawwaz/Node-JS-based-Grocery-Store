@@ -29,5 +29,5 @@ http://localhost:3000
 http://localhost:3000/inventory
 ```
 
-## Home <h2>
+### Home  Screenshot
 ![GitHub Logo](/screenshoot/home.png)
