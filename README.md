@@ -38,7 +38,7 @@ http://localhost:3000/inventory
 ![GitHub Logo](/screenshoot/sign-up.png)
 
 ### Sign-in Screenshot
-![GitHub Logo](/screenshoot/sign-in.png)
+![GitHub Logo](/screenshoot/sing-in.png)
 
 ### Sign-in Screenshot after logged in
 ![GitHub Logo](/screenshoot/side_menu.png)
