@@ -20,14 +20,37 @@ npm install npm@latest -g
 ```sh
 npm install
 ```
-4. Access home from
+### Web Access
+
+1. Access home from
 ```
 http://localhost:3000
 ```
-5. Access inventory from (optional)
+2. Access inventory from (optional)
 ```
 http://localhost:3000/inventory
 ```
 
-### Home  Screenshot
+### Home Screenshot
 ![GitHub Logo](/screenshoot/home.png)
+
+### Sign-up Screenshot
+![GitHub Logo](/screenshoot/sign-up.png)
+
+### Sign-in Screenshot
+![GitHub Logo](/screenshoot/sign-in.png)
+
+### Sign-in Screenshot after logged in
+![GitHub Logo](/screenshoot/side_menu.png)
+
+### Home Screenshot after search
+![GitHub Logo](/screenshoot/search.png)
+
+### Cart Screenshot
+![GitHub Logo](/screenshoot/cart.png)
+
+### Order Screenshot
+![GitHub Logo](/screenshoot/order.png)
+
+### Success Order Screenshot
+![GitHub Logo](/screenshoot/success.png)
